@@ -1,3 +1,3 @@
 ## Sending Email with Attachments
 
-Sending emails via Gmail with optional attachments.
+Sending email via Gmail with optional attachments.
